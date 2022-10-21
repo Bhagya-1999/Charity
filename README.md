@@ -1,5 +1,6 @@
 <h1 align="center"> Charity </h1>
 
+<h2 style="underline"> INTRODUCTION: </h2>
 <h4 align="left"> In India, the Ministry of Welfare is responsible for framing rules and guidelines and issuance of instructions to state governments, voluntary agencies and coordinating agencies, as well as scrutinizing agencies to promote in-country and inter-country adoptions. There agencies recognized for in-country adoption and foreign listed agencies for inter-country adoption. During the period, foreign nations adopted Indian children as compared to childrenadopted within the country. The Coordinating Voluntary Adoption Resource Agency(CVARA), formed with the association of eight adoption agencies in Delhi, monitor, provide counseling service, create awareness and promote the concept of adoption among potential adopters. The study described the existing adoption procedure under the Hindu Adoption & Maintenance Act, (HAMA), Guardians & Wards Act, (GAWA) and the Juvenile Justice Act. The state governments and union territory administrations maintain lists of children's homes and monitor the overall functioning of all child welfare agencies engaged in adoption.</h4>
 
 </br>
