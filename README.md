@@ -44,3 +44,14 @@
 -	My SQL (As Backend)
 </br>
 </br>
+
+<h2 align="center"> EXISTING SYSTEM</h2>
+<p align="left"> Present system is manual. The project metrics has to enter all the details of project, documents, and tasks. It also maintains the team information and also efforts estimation. For this purpose the organization maintain the size of the document, source code and update the information about team member’s details manually.</p>
+
+</br>
+</br>
+
+<h2 align="center"> PROPOSED SYSTEM </h2>
+<p align="left"> An Online “DONATE FOR POOR CHILDRENS” system is developed with a front-end web interface and a back-end database. With online services, you can donate money and opinion.
+The Administrator of the System will be divided to several privileges on how they can use the System. Administrator for example, has all the privileges such as Adding type of money Adding type of donation, Update price list, Adding Downloadable Material, Registration Module, etc </p>
+
